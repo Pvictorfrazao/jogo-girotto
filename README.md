@@ -16,7 +16,7 @@
 ### pvictorfrazao0@gmail.com
 
 
-
-### https://github.com/Pvictorfrazao
-
+### Paulo Victor Frazão
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pvictorfrazao)
+### Enzo Guimarães Bevilaqua
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/EnzoGuimaraesBevilaqua)
