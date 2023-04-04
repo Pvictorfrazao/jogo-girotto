@@ -15,8 +15,8 @@
 
 ### pvictorfrazao0@gmail.com
 
-[![Gmail] pvictorfrazao0@gmail.com](mailto:)
+
 
 ### https://github.com/Pvictorfrazao
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](* https://github.com/EnzoGuimaraesBevilaqua)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/EnzoGuimaraesBevilaqua)
