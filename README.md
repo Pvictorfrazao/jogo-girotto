@@ -2,7 +2,7 @@
 
     Nesse projeto foram desenvolvidos três jogos em C. 
 
-    - Perguntas e Resposta:
+    - Perguntas e Resposta: (Jogo do Meio milhão)
         Um jogagor ira receber diversas perguntas de múltipla escolha e ao final de cada pergunta será mostrado se o jogador acertou ou não, caso tenha errado, a resposta certa aparecerá.
 
     - Cobra na Caixa: 
